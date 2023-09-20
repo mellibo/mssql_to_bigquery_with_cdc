@@ -1,0 +1,4 @@
+apache_beam[gcp]
+pyodbc
+google-cloud-bigquery
+
